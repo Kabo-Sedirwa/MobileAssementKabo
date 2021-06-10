@@ -1,0 +1,2 @@
+rootProject.name = "MobileAssementKabo"
+include ':app'

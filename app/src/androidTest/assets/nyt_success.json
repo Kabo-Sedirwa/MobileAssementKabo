@@ -1,0 +1,174 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/5f8d5e14-8f28-50eb-8234-cb6ff39d2d0b",
+      "url": "https://www.nytimes.com/2021/06/03/us/politics/ufos-sighting-alien-spacecraft-pentagon.html",
+      "id": 100000007797230,
+      "asset_id": 100000007797230,
+      "source": "New York Times",
+      "published_date": "2021-06-03",
+      "updated": "2021-06-04 13:20:56",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Unidentified Flying Objects (UFO);Classified Information and State Secrets;Espionage and Intelligence Services;United States Politics and Government;United States Defense and Military Forces;Pilots;Military Aircraft;Extraterrestrial Life;Office of the Director of National Intelligence;United States Navy",
+      "column": null,
+      "byline": "By Julian E. Barnes and Helene Cooper",
+      "type": "Article",
+      "title": "U.S. Finds No Evidence of Alien Technology in Flying Objects, but Can’t Rule It Out, Either",
+      "abstract": "A new report concedes that much about the observed phenomena remains difficult to explain, including their acceleration, as well as ability to change direction and submerge.",
+      "des_facet": [
+        "Unidentified Flying Objects (UFO)",
+        "Classified Information and State Secrets",
+        "Espionage and Intelligence Services",
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "Pilots",
+        "Military Aircraft",
+        "Extraterrestrial Life"
+      ],
+      "org_facet": [
+        "Office of the Director of National Intelligence",
+        "United States Navy"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7fe65680-23f7-5b52-a9bb-55e35700699d",
+      "url": "https://www.nytimes.com/2021/06/05/us/politics/biden-gag-order-new-york-times-leak.html",
+      "id": 100000007800252,
+      "asset_id": 100000007800252,
+      "source": "New York Times",
+      "published_date": "2021-06-05",
+      "updated": "2021-06-09 20:49:01",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "News Sources, Confidential Status of;Freedom of the Press;Newspapers;E-Mail;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J;New York Times;Google Inc;Justice Department",
+      "column": null,
+      "byline": "By Charlie Savage and Katie Benner",
+      "type": "Article",
+      "title": "White House Disavows Knowledge of Gag Order on Times Leaders in Leak Inquiry",
+      "abstract": "The Justice Department also said it was changing its policy to bar seizing reporters’ phone and email records in hunts for their sources.",
+      "des_facet": [
+        "News Sources, Confidential Status of",
+        "Freedom of the Press",
+        "Newspapers",
+        "E-Mail",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "New York Times",
+        "Google Inc",
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The White House press secretary, Jen Psaki, said in a statement that no one at the White House was aware of the gag order until Friday night.",
+          "copyright": "Erin Scott for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/multimedia/05dc-leak-image/merlin_188734170_2dfb19e2-3403-4e44-b86a-9d5ce7557f95-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/multimedia/05dc-leak-image/05dc-leak-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/multimedia/05dc-leak-image/05dc-leak-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c3baad37-5f93-595f-8f23-0be4dc875f3b",
+      "url": "https://www.nytimes.com/2021/06/05/us/politics/mark-meadows-justice-department-election.html",
+      "id": 100000007799406,
+      "asset_id": 100000007799406,
+      "source": "New York Times",
+      "published_date": "2021-06-05",
+      "updated": "2021-06-07 23:10:37",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;United States Politics and Government;Voter Fraud (Election Fraud);Voting Machines;Conspiracy Theories;Rumors and Misinformation;Meadows, Mark R (1959- );Rosen, Jeffrey Adam (1958- );Trump, Donald J;Justice Department",
+      "column": null,
+      "byline": "By Katie Benner",
+      "type": "Article",
+      "title": "Meadows Pressed Justice Dept. to Investigate Election Fraud Claims",
+      "abstract": "Emails show the increasingly urgent efforts by President Trump and his allies during his last days in office to find some way to undermine, or even nullify, the election results.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "United States Politics and Government",
+        "Voter Fraud (Election Fraud)",
+        "Voting Machines",
+        "Conspiracy Theories",
+        "Rumors and Misinformation"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Meadows, Mark R (1959- )",
+        "Rosen, Jeffrey Adam (1958- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The newly uncovered emails from Mark Meadows, then President Donald J. Trump’s chief of staff, reflect Mr. Trump’s belief that he could use the Justice Department to advance his personal agenda.",
+          "copyright": "Erin Scott for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/politics/05dc-meadows-1/05dc-meadows-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/politics/05dc-meadows-1/05dc-meadows-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/05/us/politics/05dc-meadows-1/05dc-meadows-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+
+  ]
+}
