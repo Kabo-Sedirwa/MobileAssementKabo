@@ -8,7 +8,7 @@ import retrofit2.http.GET;
 
 public interface APIService {
 //Todo Need to make use of env variable for nyt_api_key
- @GET("7.json?api-key=0Jd3Tp86YckFRA9yjYQLnfWgLTiP54GCo")
+ @GET("7.json?api-key=0Jd3Tp86YckFRA9yjYQLnfWgLTiP54GC")
  Call<ArticleList> getArticleList();
 
 

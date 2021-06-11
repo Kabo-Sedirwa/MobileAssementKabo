@@ -5,6 +5,8 @@ Design Pattern : MVVM
 
 This project uses the Gradle build system.
 
+Please ensure that the local.properties file in the root folder of the project is present and points to the location of the Android sdk`
+
 ## Setup the project in Android studio and run the project.
 
 1. Download the project code, preferably using `git clone`.
