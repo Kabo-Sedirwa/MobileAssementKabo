@@ -1,5 +1,6 @@
 # MobileAssementKabo
 A simple mobile assement for valuation .
+
 Design Pattern : MVVM
 
 This project uses the Gradle build system.
@@ -12,7 +13,7 @@ This project uses the Gradle build system.
 1. Connect a device or start an emulator
 1. Run the newly created configuration
 
-##Run Tests
+## Run Tests
 This is yet to be finalized.
 
 ## See the report.
