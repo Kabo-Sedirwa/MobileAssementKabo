@@ -4,7 +4,6 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetroInstance {
 
-    public static String NYT_API_KEY = "0Jd3Tp86YckFRA9yjYQLnfWgLTiP54GC";
     public static String BASE_URL = "https://api.nytimes.com/svc/mostpopular/v2/viewed/";
     private static Retrofit retrofit;
 
