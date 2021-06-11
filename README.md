@@ -8,8 +8,7 @@ This project uses the Gradle build system.
 ## Setup the project in Android studio and run the project.
 
 1. Download the project code, preferably using `git clone`.
-1. In Android Studio, select *File* | *Open...* and point to the `./build.gradle` file.
-
+1. Wait for gradle to finish building.
 1. Connect a device or start an emulator
 1. Run the newly created configuration
 
