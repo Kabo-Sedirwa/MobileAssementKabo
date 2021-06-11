@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.example.mobileassementkabo.Core.Adapters.ArticleListAdapter;
@@ -29,10 +30,12 @@ private ArticleListViewModel viewModel;
         setContentView(R.layout.activity_main);
         RecyclerView recyclerView = findViewById(R.id.recyclerView);
         final TextView no_result = findViewById(R.id.noResultTv);
+        final ProgressBar progressBar = findViewById(R.id.progressBar);
         LinearLayoutManager layoutManager = new GridLayoutManager(this, 1);
         recyclerView.setLayoutManager(layoutManager);
         adapter =  new ArticleListAdapter(this, articleModelList);
         recyclerView.setAdapter(adapter);
+        progressBar.setVisibility(View.VISIBLE);
 
         viewModel = ViewModelProviders.of(this).get(ArticleListViewModel.class);
         viewModel.getArticleListObserver().observe(this, new Observer<ArticleList>() {
@@ -41,6 +44,7 @@ private ArticleListViewModel viewModel;
                 if(articleModels != null){
                     articleModelList = articleModels;
                     adapter.setArticleList(articleModels);
+                    progressBar.setVisibility(View.GONE);
                     no_result.setVisibility(View.GONE);
                 }else{
 
